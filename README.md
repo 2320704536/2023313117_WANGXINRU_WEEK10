@@ -85,7 +85,8 @@ plotly
 
 ## 📸 Screenshot
 
-Add a screenshot of your dashboard here:
+<img width="1512" height="795" alt="截屏2026-05-06 下午12 42 45" src="https://github.com/user-attachments/assets/c85734ee-6ab0-4dc5-92cf-34ee17bb32af" />
+
 
 ```markdown
 ![Dashboard Screenshot](screenshot.png)
